@@ -28,7 +28,7 @@ Sistema para monitorar a conexão e desconexão de dispositivos de áudio USB co
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone <URL_DO_SEU_REPOSITORIO>
+    git clone <https://github.com/Vlordaro/Monitor_Usb_Device/tree/main>
     cd <NOME_DO_DIRETORIO>
     ```
 2.  **Instale as Dependências:**
