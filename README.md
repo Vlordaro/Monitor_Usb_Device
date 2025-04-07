@@ -1,4 +1,4 @@
-# Monitor_USB: Monitoramento de Headsets com Notificações Telegram e Restart Automático
+# Monitor_USB: Monitoramento de dispositivos de som com Notificações Telegram e Restart Automático
 
 Sistema para monitorar em tempo real a conexão e desconexão de headsets (USB), com ações automatizadas como envio de notificações via Telegram, reinício de aplicativos e atualização de arquivos `.ini`.
 
